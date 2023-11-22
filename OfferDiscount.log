@@ -1,0 +1,17 @@
+2023-11-22 20:19:43,469 :DEBUG :Ticket number was 2001 and discount given 4K.
+2023-11-22 20:20:21,434 :DEBUG :Ticket number was 5952 and discount given 8K.
+2023-11-22 20:20:43,643 :DEBUG :Ticket number was 10429 and discount given 12K.
+2023-11-22 20:20:58,649 :DEBUG :Ticket number was 15230 and discount given 16K.
+2023-11-22 20:21:09,819 :DEBUG :Ticket number was 19000 and discount given 20K.
+2023-11-22 20:21:18,755 :DEBUG :Ticket number was 4024 and discount given 8K.
+2023-11-22 20:21:28,295 :DEBUG :Ticket number was 67 and discount given 4K.
+2023-11-22 20:21:45,926 :DEBUG :Ticket number was 9027 and discount given 12K.
+2023-11-22 20:24:46,878 :DEBUG :Your ticket number is wrong and there is no discount offer.
+2023-11-22 20:24:55,974 :DEBUG :Ticket number was 5 and discount given 4K.
+2023-11-22 20:27:32,863 :DEBUG :Ticket number was 19951 and discount given 20K.
+2023-11-22 20:31:23,356 :OfferDiscount.py :DEBUG :Ticket number was 8734 and discount given 12K.
+2023-11-22 20:31:31,806 :OfferDiscount.py :DEBUG :Ticket number was 10 and discount given 4K.
+2023-11-22 20:58:42,988 :OfferDiscount.py :DEBUG :Ticket number was 100 and discount given 4K.
+2023-11-22 21:00:45,906 :SaleDiscount.py :DEBUG :Your ticket number is 200 and you will get discount of INR-15000 30%-off on total sale.
+2023-11-22 21:22:56,651 :OfferDiscount.py :DEBUG :Ticket number was 11 and discount given 4K.
+2023-11-22 21:23:17,299 :SaleDiscount.py :DEBUG :Your ticket number is 2180 and you will get discount of INR-10370 30%-off on total sale.
